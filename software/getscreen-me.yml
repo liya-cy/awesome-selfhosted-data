@@ -1,0 +1,11 @@
+name: "Getscreen.me Self-Hosted"
+website_url: "https://getscreen.me/en/features/self-hosted/"
+description: "Getscreen.me Self-Hosted Server — secure remote desktop software deployed on your own infrastructure for full control, privacy, and enterprise-grade remote access."
+licenses:
+ - ⊘ Proprietary
+platforms:
+  - Docker
+tags:
+ - Remote Access
+depends_3rdparty: false
+demo_url: "https://getscreen.me/en/pricing/self-hosted/"
